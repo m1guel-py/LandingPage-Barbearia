@@ -67,7 +67,7 @@ ALL Styles
 */
 
 html {
-    overscroll-behavior-y: none;
+    overscroll-behavior: none;
 }
 
 body {
