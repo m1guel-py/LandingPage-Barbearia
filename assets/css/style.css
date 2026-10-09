@@ -66,6 +66,10 @@ CLASS
 ALL Styles
 */
 
+html {
+    overscroll-behavior-y: none;
+}
+
 body {
     background-color: #161616;
     margin: 0;
