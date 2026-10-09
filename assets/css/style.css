@@ -154,7 +154,7 @@ HEADER
 }
 
 #illustration_home {
-    width: 100%;
+    width: 1400px;
 }
 
 /*
@@ -208,7 +208,7 @@ MAIN
 }
 
 .gallery_images img {
-    width: 100%;
+    width: 550px;
 }
 
 #horizontal_gallery {
