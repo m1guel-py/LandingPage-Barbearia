@@ -77,6 +77,8 @@ body {
     color: white;
     font-family: 'Manrope';
     font-size: 17px;
+
+    overflow-x: hidden;
 }
 
 body h2 {
